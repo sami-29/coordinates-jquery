@@ -1,0 +1,26 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+body {
+  background-color: #f4f4f4;
+}
+
+#follow {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  background-color: rgb(250, 126, 126);
+  top: 100px;
+}
+
+#run {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  background-color: rgb(94, 94, 163);
+  top: 200px;
+  left: 300px;
+}
